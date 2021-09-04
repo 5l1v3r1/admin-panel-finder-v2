@@ -1,0 +1,10 @@
+C:\Users\turkl\source\repos\Admin Panel Finder V2.0\Admin Panel Finder V2.0\bin\Debug\Admin Panel Finder V2.0.exe.config
+C:\Users\turkl\source\repos\Admin Panel Finder V2.0\Admin Panel Finder V2.0\bin\Debug\Admin Panel Finder V2.0.exe
+C:\Users\turkl\source\repos\Admin Panel Finder V2.0\Admin Panel Finder V2.0\bin\Debug\Admin Panel Finder V2.0.pdb
+C:\Users\turkl\source\repos\Admin Panel Finder V2.0\Admin Panel Finder V2.0\obj\Debug\Admin Panel Finder V2.0.csproj.AssemblyReference.cache
+C:\Users\turkl\source\repos\Admin Panel Finder V2.0\Admin Panel Finder V2.0\obj\Debug\Admin_Panel_Finder_V2._0.Form1.resources
+C:\Users\turkl\source\repos\Admin Panel Finder V2.0\Admin Panel Finder V2.0\obj\Debug\Admin_Panel_Finder_V2._0.Properties.Resources.resources
+C:\Users\turkl\source\repos\Admin Panel Finder V2.0\Admin Panel Finder V2.0\obj\Debug\Admin Panel Finder V2.0.csproj.GenerateResource.cache
+C:\Users\turkl\source\repos\Admin Panel Finder V2.0\Admin Panel Finder V2.0\obj\Debug\Admin Panel Finder V2.0.csproj.CoreCompileInputs.cache
+C:\Users\turkl\source\repos\Admin Panel Finder V2.0\Admin Panel Finder V2.0\obj\Debug\Admin Panel Finder V2.0.exe
+C:\Users\turkl\source\repos\Admin Panel Finder V2.0\Admin Panel Finder V2.0\obj\Debug\Admin Panel Finder V2.0.pdb
